@@ -6,5 +6,3 @@ Some 10 lines
 Some 10 lines
 Some 10 lines
 Some 10 lines
-Some 10 lines
-Some 10 lines
